@@ -19,6 +19,7 @@ It needs to be noted that while the totality of the Spanish MT corpus was post-e
 Regarding the training set, only 2000 HS-CN pairs were post-edited, which is why the Basque post-edited dataset contains fewer examples. 
 Additionally, while the CNs in the test set were post-edited, the HS were left unedited.  
 
+## Download
 
 These four datasets can be found in this repository: 
 
@@ -27,7 +28,10 @@ These four datasets can be found in this repository:
 + eu_MT: Basque MT dataset
 + eu_post: Basque post-edited dataset
 
-Each dataset is divided into train and test set, as previously stated. 
+Each dataset is divided into train and test set, as previously stated. We distribute the original and a shuffled version:
+
++ [original version](https://github.com/ixa-ehu/conan-e/raw/main/datasets-original-order.zip)
++ [shuffled version](https://github.com/ixa-ehu/conan-e/raw/main/datasets-shuffled.zip) 
 
 ## HS-CN example
 
